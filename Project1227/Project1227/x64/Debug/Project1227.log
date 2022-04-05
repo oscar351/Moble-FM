@@ -1,0 +1,62 @@
+﻿  project.c
+C:\KM\C\workspace\src\project.c(51,16): warning C4013: 'choice_menu'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\KM\C\workspace\src\project.c(56,20): warning C4013: 'processMenu'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\KM\C\workspace\src\project.c(55,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(91,18): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\KM\C\workspace\src\project.c(231,25): warning C4098: 'menu_1': 'void' 함수에서 값을 반환하고 있습니다.
+C:\KM\C\workspace\src\project.c(83,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(96,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(100,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(102,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(104,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(106,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(124,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(128,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(130,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(132,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(134,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(152,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(156,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(158,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(160,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(162,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(180,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(184,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(186,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(188,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(190,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(208,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(212,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(214,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(216,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(218,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(397,25): warning C4098: 'menu_2': 'void' 함수에서 값을 반환하고 있습니다.
+C:\KM\C\workspace\src\project.c(241,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(253,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(283,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(313,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(343,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(373,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(237,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\KM\C\workspace\src\project.c(532,24): warning C4047: '함수': 'profile *'의 간접 참조 수준이 'profile (*)[12]'과(와) 다릅니다.
+C:\KM\C\workspace\src\project.c(532,22): warning C4024: 'Sum_Team': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\KM\C\workspace\src\project.c(532,28): warning C4047: '함수': 'profile *'의 간접 참조 수준이 'profile (*)[12]'과(와) 다릅니다.
+C:\KM\C\workspace\src\project.c(532,26): warning C4024: 'Sum_Team': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\KM\C\workspace\src\project.c(532,32): warning C4047: '함수': 'profile *'의 간접 참조 수준이 'profile (*)[12]'과(와) 다릅니다.
+C:\KM\C\workspace\src\project.c(532,30): warning C4024: 'Sum_Team': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\KM\C\workspace\src\project.c(532,36): warning C4047: '함수': 'profile *'의 간접 참조 수준이 'profile (*)[12]'과(와) 다릅니다.
+C:\KM\C\workspace\src\project.c(532,34): warning C4024: 'Sum_Team': 형식 및 실제 매개 변수 4의 형식이 서로 다릅니다.
+C:\KM\C\workspace\src\project.c(532,40): warning C4047: '함수': 'profile *'의 간접 참조 수준이 'profile (*)[12]'과(와) 다릅니다.
+C:\KM\C\workspace\src\project.c(532,38): warning C4024: 'Sum_Team': 형식 및 실제 매개 변수 5의 형식이 서로 다릅니다.
+C:\KM\C\workspace\src\project.c(532,44): warning C4047: '함수': 'profile *'의 간접 참조 수준이 'profile (*)[60]'과(와) 다릅니다.
+C:\KM\C\workspace\src\project.c(532,42): warning C4024: 'Sum_Team': 형식 및 실제 매개 변수 6의 형식이 서로 다릅니다.
+C:\KM\C\workspace\src\project.c(481,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(487,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(594,25): warning C4098: 'nameSearch': 'void' 함수에서 값을 반환하고 있습니다.
+C:\KM\C\workspace\src\project.c(557,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(643,25): warning C4098: 'Position_Search': 'void' 함수에서 값을 반환하고 있습니다.
+C:\KM\C\workspace\src\project.c(604,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\KM\C\workspace\src\project.c(649,25): warning C4098: 'menu_5': 'void' 함수에서 값을 반환하고 있습니다.
+C:\KM\C\workspace\src\project.c(74): warning C4716: 'choice_menu': 값을 반환해야 합니다.
+C:\KM\C\workspace\src\project.c(676): warning C4716: 'processMenu': 값을 반환해야 합니다.
+  Project1227.vcxproj -> C:\KM\C\workspace\pro\Project1227\x64\Debug\Project1227.exe
